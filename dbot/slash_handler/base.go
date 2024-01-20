@@ -279,7 +279,7 @@ func (shdl SlashHandler) MessageEmbedTemplate() *discordgo.MessageEmbed {
 	}()
 	bAvatar := func() string {
 		if global.Config.Discord.BotAvatar == "" {
-			return "https://raw.githubusercontent.com/SpenserCai/sd-webui-discord/main/res/logo.png"
+			return "https://raw.githubusercontent.com/navin-hariharan/sd-webui-discord/main/res/logo.png"
 		} else {
 			return global.Config.Discord.BotAvatar
 		}
@@ -298,8 +298,8 @@ func (shdl SlashHandler) MessageEmbedTemplate() *discordgo.MessageEmbed {
 			URL:     bUrl,
 		},
 		Footer: &discordgo.MessageEmbedFooter{
-			Text:    "Powered by sd-webui-discord",
-			IconURL: "https://raw.githubusercontent.com/SpenserCai/sd-webui-discord/main/res/logo.png",
+			Text:    "Powered by - CyberHakz",
+			IconURL: "https://raw.githubusercontent.com/navin-hariharan/sd-webui-discord/main/res/logo2.png",
 		},
 	}
 	return embed

@@ -18,9 +18,9 @@
         "oauth2_redirect_base_url":"http://127.0.0.1:18890",
         "server_id":"<your servers id here if empty all servers>",
         "bot_name":"SD-WEBUI-BOT",
-        "bot_avatar":"https://raw.githubusercontent.com/SpenserCai/sd-webui-discord/main/res/logo.png",
-        "bot_url":"https://github.com/SpenserCai/sd-webui-discord",
-        "discord_server_url":"https://discord.com/invite/uNJpzEE4sZ"
+        "bot_avatar":"https://raw.githubusercontent.com/navin-hariharan/sd-webui-discord/main/res/logo.png",
+        "bot_url":"https://github.com/navin-hariharan/sd-webui-discord",
+        "discord_server_url":"https://discord.gg/GBYE3ntac4"
     },
     "user_center":{
         "enable":true,
