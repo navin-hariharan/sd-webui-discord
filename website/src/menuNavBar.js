@@ -41,10 +41,10 @@ export default [
     
   },
   {
-    icon: mdiGithub,
-    label: 'GitHub',
+    icon: mdiInstagram,
+    label: 'Instagram',
     isDesktopNoLabel: true,
-    href: 'https://github.com/SpenserCai/sd-webui-discord',
+    href: 'https://www.instagram.com/lachu_ai/',
     target: '_blank'
   },
   {

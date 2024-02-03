@@ -19,7 +19,7 @@ const Login = () => {
 }
 
 const Github = () => {
-  window.location.href = 'https://github.com/SpenserCai/sd-webui-discord'
+  window.location.href = 'https://github.com/navin-hariharan/sd-webui-discord'
 }
 </script>
 
