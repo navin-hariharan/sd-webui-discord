@@ -28,7 +28,7 @@ const Github = () => {
     <div :class="gradientBgDark" class="flex min-h-screen items-center justify-center">
       <SectionMain>
         <h1 class="text-4xl md:text-5xl text-center text-white font-bold mt-12 mb-3 lg:mt-0">
-          SD-WEBUI-DISCORD
+          LACHU-AI
         </h1>
         <h2 class="text-xl md:text-xl text-center text-white mb-12">
           Support For Clustered Stable Diffusion WebUi Discord Bot

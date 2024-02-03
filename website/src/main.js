@@ -50,7 +50,7 @@ createApp(App).use(router).use(pinia).use(Notifications).use(VueLazyLoad).mount(
 // }
 
 // Default title tag
-const defaultDocumentTitle = 'SD-WEBUI-DISCORD'
+const defaultDocumentTitle = 'LACHU-AI'
 
 // Set document title from route meta
 router.afterEach((to) => {
