@@ -31,7 +31,7 @@ const Github = () => {
           LACHU-AI
         </h1>
         <h2 class="text-xl md:text-xl text-center text-white mb-12">
-          Support For Clustered Stable Diffusion WebUi Discord Bot
+          A product from CyberHakz
         </h2>
         <div class="grid gap-6 grid-cols-1 lg:grid-cols-2 px-6 max-w-6xl mx-auto">
           <!--一个Login按钮-->

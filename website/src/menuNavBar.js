@@ -9,7 +9,7 @@
 import {
   mdiAccount,
   mdiLogout,
-  mdiGithub,
+  mdiInstagram,
   mdiPalette,
 } from '@mdi/js'
 
@@ -41,8 +41,8 @@ export default [
     
   },
   {
-    icon: mdiGithub,
-    label: 'GitHub',
+    icon: mdiInstagram,
+    label: 'Instagram',
     isDesktopNoLabel: true,
     href: 'https://www.instagram.com/lachu_ai/',
     target: '_blank'
