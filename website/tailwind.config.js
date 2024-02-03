@@ -1,13 +1,3 @@
-/*
- * @Author: SpenserCai
- * @Date: 2023-10-01 10:22:20
- * @version: 
- * @LastEditors: SpenserCai
- * @LastEditTime: 2023-10-07 11:14:45
- * @Description: file content
- */
-/* eslint-env node */
-
 const plugin = require("tailwindcss/plugin");
 
 module.exports = {
