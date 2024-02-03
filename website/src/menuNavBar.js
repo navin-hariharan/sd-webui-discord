@@ -41,8 +41,8 @@ export default [
     
   },
   {
-    icon: mdiInstagram,
-    label: 'Instagram',
+    icon: mdiGithub,
+    label: 'GitHub',
     isDesktopNoLabel: true,
     href: 'https://www.instagram.com/lachu_ai/',
     target: '_blank'
